@@ -3,7 +3,7 @@
 Display for a Costa Rica Prefabricated Concrete Home
 has Howe Truss
 
-Few Chapters Ago Lemuel and Sam were working on a boat to flee away from Jerusalem
+Few Chapters Ago Lemuel and Sam were working on a boat to flee away from Jerusalem.
 Gaza strip reconstruction will consume a lot of AAC bricks from rusia.
 The AAC Brick and the Blender3D startpage, Blender Guy Voted for NET and Yahoo ....
 .Net AND Yahoo gave UZI hand guns to hebrew police here in Costa Rica
