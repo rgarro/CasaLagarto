@@ -1,19 +1,13 @@
 # CasaLagarto
 
-Display for a Costa Rica Prefabricated Concrete Home
-has Howe Truss
+Orbitator Display for a Costa Rica Prefabricated Concrete Home 42 m2
+with perling howe truss using Holcim Sistema Prefa. I used archimesh windows.
 
-Few Chapters Ago Lemuel and Sam were working on a boat to flee away from Jerusalem.
-
-Gaza strip reconstruction will consume a lot of AAC bricks from rusia.
-
-The AAC Brick and the Blender3D startpage, Blender Guy Voted for .NETandYahoo ....
-
-GAZA Surf Club is Destroyed, FUCK NETFLIX !!.
-
-Im going surfing to Barranca Beach, paying tribute to the local warlords with this project ...
+The material costs from Ferreteria LAGAR is $1350.
 
 Inspired by Naish House Brasil https://www.youtube.com/watch?v=8ecTw8PWGPg
+
+Casa Pre moldada em Botucatu https://www.youtube.com/watch?v=lkwnU8QPG0Q
 
 Download Model https://sketchfab.com/3d-models/prefabricated-concrete-molds-home-6aab08353e8b49d184eaf6ca0c588e20
 
