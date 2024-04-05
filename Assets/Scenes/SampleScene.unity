@@ -183,10 +183,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 65702495048144492, guid: ff1ced96f5d334b06a8e15084182ee65,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ff1ced96f5d334b06a8e15084182ee65,
         type: 3}
       propertyPath: m_Name
       value: ViviendaSistPrefHolcimConTecho
+      objectReference: {fileID: 0}
+    - target: {fileID: 8934777400606672865, guid: ff1ced96f5d334b06a8e15084182ee65,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff1ced96f5d334b06a8e15084182ee65, type: 3}
@@ -358,13 +368,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.032344688, y: -0.97556084, z: 0.14316785, w: -0.16351701}
-  m_LocalPosition: {x: -5.4, y: 7, z: 23.8}
+  m_LocalRotation: {x: -0.0118816225, y: -0.9866059, z: 0.14319879, w: -0.07721356}
+  m_LocalPosition: {x: -2.86, y: 7, z: 24.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 15.591001, y: -199.928, z: -6.5530005}
+  m_LocalEulerAnglesHint: {x: 16.523, y: -188.93799, z: 0.080000006}
 --- !u!1 &1475049672
 GameObject:
   m_ObjectHideFlags: 0
@@ -411,8 +421,8 @@ MonoBehaviour:
   RestartIcon: {fileID: 2800000, guid: 3b3bd5c6ffd7b40bd9b4345d515d3420, type: 3}
   IconX: 10
   IconY: 10
-  IconWidth: 128
-  IconHeight: 128
+  IconWidth: 45
+  IconHeight: 45
   windowX: 20
   windowY: 20
   windowWidth: 300
