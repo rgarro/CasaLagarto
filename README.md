@@ -15,4 +15,4 @@ Download Model https://sketchfab.com/3d-models/prefabricated-concrete-molds-home
 
 Buy Me a Beer, Starbucks Expresso or send a cheese burguer ... [Paypal](https://www.paypal.me/gospelOfLuke/25).
 
-[![acuchillados en pleitos de embargos ... ](https://raw.githubusercontent.com/rgarro/CasaLagarto/main/lagarto.jpg)]
+[![acuchillados en pleitos de embargos ... ](https://raw.githubusercontent.com/rgarro/CasaLagarto/main/foto.png)]
