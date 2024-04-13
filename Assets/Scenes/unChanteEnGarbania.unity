@@ -206,6 +206,30 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff1ced96f5d334b06a8e15084182ee65, type: 3}
+--- !u!1 &147193540 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -8067903106852887348, guid: ff1ced96f5d334b06a8e15084182ee65,
+    type: 3}
+  m_PrefabInstance: {fileID: 147193539}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &147193541 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -6695284333348112251, guid: ff1ced96f5d334b06a8e15084182ee65,
+    type: 3}
+  m_PrefabInstance: {fileID: 147193539}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &147193542 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 846686881783364936, guid: ff1ced96f5d334b06a8e15084182ee65,
+    type: 3}
+  m_PrefabInstance: {fileID: 147193539}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &147193543 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 339880190830778656, guid: ff1ced96f5d334b06a8e15084182ee65,
+    type: 3}
+  m_PrefabInstance: {fileID: 147193539}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &683726122
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -761,10 +785,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d5e47de01cc041b49ed830196162cc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  roofMetalSheetA: {fileID: 0}
-  roofMetalSheetB: {fileID: 0}
-  roofMetalSheetC: {fileID: 0}
-  roofMetalSheetD: {fileID: 0}
+  roofMetalSheetA: {fileID: 147193543}
+  roofMetalSheetB: {fileID: 147193542}
+  roofMetalSheetC: {fileID: 147193541}
+  roofMetalSheetD: {fileID: 147193540}
+  RoofIcon: {fileID: 2800000, guid: fffd9cd39d65a4ac4857d69f7ec76499, type: 3}
+  IconX: 380
+  IconY: 10
+  IconWidth: 55
+  IconHeight: 55
 --- !u!1 &1904469106
 GameObject:
   m_ObjectHideFlags: 0

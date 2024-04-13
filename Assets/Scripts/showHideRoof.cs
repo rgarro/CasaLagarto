@@ -56,11 +56,17 @@ public class showHideRoof : MonoBehaviour
 
 
     void showRoof(){
-
+        this.roofMetalSheetA.SetActive(true);
+        this.roofMetalSheetB.SetActive(true);
+        this.roofMetalSheetC.SetActive(true);
+        this.roofMetalSheetD.SetActive(true);
     }
 
      void hideRoof(){
-
+        this.roofMetalSheetA.SetActive(false);
+        this.roofMetalSheetB.SetActive(false);
+        this.roofMetalSheetC.SetActive(false);
+        this.roofMetalSheetD.SetActive(false);
     }
 
     // Update is called once per frame
