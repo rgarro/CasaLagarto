@@ -1,4 +1,5 @@
-﻿using System.Runtime.CompilerServices;
+﻿using System.Diagnostics;
+using System.Runtime.CompilerServices;
 using System.Globalization;
 using System;
 using System.Collections;
@@ -28,7 +29,7 @@ public class showHideRoof : MonoBehaviour
     public GameObject roofMetalSheetD;
     private Boolean roof_is_shown = true;
 
-    public Texture2D DownloadIcon;
+    public Texture2D RoofIcon;
     public float IconX = 10;
     public float IconY = 10;
     public float IconWidth = 128;
@@ -41,12 +42,14 @@ public class showHideRoof : MonoBehaviour
     }
 
     void OnGUI(){
-        if(GUI.Button(new Rect (this.IconX,this.IconY,this.IconWidth,this.IconHeight),this.DownloadIcon)) 
+        if(GUI.Button(new Rect (this.IconX,this.IconY,this.IconWidth,this.IconHeight),this.RoofIcon)) 
         {
            if(this.roof_is_shown){
-               this.showRoof();
-           }else{
+               this.roof_is_shown = false;
                this.hideRoof();
+           }else{
+               this.roof_is_shown = true;
+               this.showRoof();
            }
         }
     }
