@@ -27,7 +27,7 @@ public class showHideRoof : MonoBehaviour
     public GameObject roofMetalSheetB;
     public GameObject roofMetalSheetC;
     public GameObject roofMetalSheetD;
-public GameObject roofMetalSheetE;
+    public GameObject roofMetalSheetE;
     public GameObject roofMetalSheetF;
     public GameObject roofMetalSheetG;
     public GameObject roofMetalSheetH;
@@ -65,6 +65,11 @@ public GameObject roofMetalSheetE;
         this.roofMetalSheetB.SetActive(true);
         this.roofMetalSheetC.SetActive(true);
         this.roofMetalSheetD.SetActive(true);
+
+         this.roofMetalSheetE.SetActive(true);
+        this.roofMetalSheetF.SetActive(true);
+        this.roofMetalSheetG.SetActive(true);
+        this.roofMetalSheetH.SetActive(true);
     }
 
      void hideRoof(){
@@ -72,6 +77,11 @@ public GameObject roofMetalSheetE;
         this.roofMetalSheetB.SetActive(false);
         this.roofMetalSheetC.SetActive(false);
         this.roofMetalSheetD.SetActive(false);
+
+         this.roofMetalSheetE.SetActive(false);
+        this.roofMetalSheetF.SetActive(false);
+        this.roofMetalSheetG.SetActive(false);
+        this.roofMetalSheetH.SetActive(false);
     }
 
     // Update is called once per frame

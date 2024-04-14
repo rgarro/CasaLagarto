@@ -427,7 +427,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.92213315, g: 0.98039216, b: 0.81960785, a: 0}
+  m_BackGroundColor: {r: 0.81960785, g: 0.98039216, b: 0.864939, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -594,9 +594,9 @@ MonoBehaviour:
   windowY: 90
   windowHeight: 290
   windowWidth: 150
-  instructionsString: "ORBIT PAN ZOOM \n\nOrbit: Mouse Wheel Shift\n\nZoom: Mouse
-    Wheel , Mouse Wheel ALt"
-  labelString: Instructions
+  instructionsString: "ORBIT PAN ZOOM \n\nOrbit: Mouse Wheel + Shift Key\n\nZoom:
+    Mouse Wheel , Mouse Wheel + ALt key"
+  labelString: 'Instructions :'
   marginVal: 25
   style:
     m_Name: 
