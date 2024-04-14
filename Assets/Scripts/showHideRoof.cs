@@ -27,6 +27,11 @@ public class showHideRoof : MonoBehaviour
     public GameObject roofMetalSheetB;
     public GameObject roofMetalSheetC;
     public GameObject roofMetalSheetD;
+public GameObject roofMetalSheetE;
+    public GameObject roofMetalSheetF;
+    public GameObject roofMetalSheetG;
+    public GameObject roofMetalSheetH;
+
     private Boolean roof_is_shown = true;
 
     public Texture2D RoofIcon;
