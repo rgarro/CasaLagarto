@@ -11,8 +11,8 @@ Inspired by Naish House Brasil https://www.youtube.com/watch?v=8ecTw8PWGPg
 
 Casa Pre moldada em Botucatu https://www.youtube.com/watch?v=lkwnU8QPG0Q
 
-Download Model https://sketchfab.com/3d-models/prefabricated-concrete-molds-home-6aab08353e8b49d184eaf6ca0c588e20
+Download Model https://sketchfab.com/3d-models/concrete-molds-prefabricated-home-561d06b8d38a40e48dfc55e567b94560
 
-Buy Me a Beer, Starbucks Expresso or send a cheese burguer ... [Paypal](https://www.paypal.me/gospelOfLuke/25).
+Did you like it? send me funds,help me to pay my MIT major ... [Paypal](https://www.paypal.me/gospelOfLuke/25).
 
-[![acuchillados en pleitos de embargos ... ](https://raw.githubusercontent.com/rgarro/CasaLagarto/main/foto.png)]
+[![embargadores acuchillados por nicas en alajuela ... ](https://raw.githubusercontent.com/rgarro/CasaLagarto/main/foto.png)]
